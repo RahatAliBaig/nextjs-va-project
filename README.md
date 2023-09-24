@@ -30,8 +30,6 @@ pnpm dev
   - :rewind: REVERT: revert index.js
   - :twisted_rightwards_arrows: MERGE: merge dev to main
 
-
-
   ### Branching SOPs
   - type/task
 
